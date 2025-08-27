@@ -1,7 +1,7 @@
 # Calculadora
 Calculadora em JAVA
-<img width="650" height="506" alt="image" src="https://github.com/user-attachments/assets/e54b3fb4-2f71-4d16-902c-aa284e970b65" />
 
+<img width="650" height="506" alt="image" src="https://github.com/user-attachments/assets/e54b3fb4-2f71-4d16-902c-aa284e970b65" />
 
 Leitura dos valores de entrada:
 
