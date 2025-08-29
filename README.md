@@ -35,4 +35,4 @@ Caso o usuário informe um valor inválido (não numérico ou segundo número 0 
 
 Neste cenário, uma janela de mensagem (JOptionPane) informa ao usuário que apenas números inteiros são aceitos.
 
-Botão Limpar para limpar o calculo existe e voltar ao primeiro campo de entrada.
+Botão Limpar para limpar o calculo existente e voltar ao primeiro campo de entrada.
