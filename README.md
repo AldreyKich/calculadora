@@ -13,9 +13,9 @@ Soma: num1 + num2
 
 Subtração: num1 - num2
 
-Divisão: num1 / num2 (resultado armazenado como double e formatado com duas casas decimais).
+Divisão: num1 / num2 (resultado armazenado como float e formatado com duas casas decimais).
 
-Multiplicação: num1 * num2 (resultado armazenado como float e formatado com duas casas decimais).
+Multiplicação: num1 * num2.
 
 Exibição dos resultados:
 
