@@ -1,7 +1,7 @@
 # Calculadora
 Calculadora em JAVA
 
-<img width="650" height="506" alt="image" src="https://github.com/user-attachments/assets/e54b3fb4-2f71-4d16-902c-aa284e970b65" />
+<img width="544" height="461" alt="image" src="https://github.com/user-attachments/assets/f0de0831-d48a-4609-b032-cd7a0fe7b8f1" />
 
 Leitura dos valores de entrada:
 
@@ -15,7 +15,7 @@ Subtração: num1 - num2
 
 Divisão: num1 / num2 (resultado armazenado como double e formatado com duas casas decimais).
 
-Multiplicação: num1 * num2 (resultado armazenado como double e formatado com duas casas decimais).
+Multiplicação: num1 * num2 (resultado armazenado como float e formatado com duas casas decimais).
 
 Exibição dos resultados:
 
@@ -34,3 +34,5 @@ Tratamento de erros:
 Caso o usuário informe um valor inválido (não numérico ou segundo número 0 que náo permite divisão), é disparada uma exceção NumberFormatException.
 
 Neste cenário, uma janela de mensagem (JOptionPane) informa ao usuário que apenas números inteiros são aceitos.
+
+Botão Limpar para limpar o calculo existe e voltar ao primeiro campo de entrada.
